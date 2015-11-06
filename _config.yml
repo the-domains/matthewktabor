@@ -1,0 +1,23 @@
+name: matthewktabor
+favicon: null
+layout_spectrum: 0.20234901015646756
+typography_spectrum: 0.7265104919206351
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7085694894194603
+  lightness: 0.9578666512388736
+  saturation: 0.26640664995647967
+  rhythmicContrast: 0.235997712938115
+purpose: []
